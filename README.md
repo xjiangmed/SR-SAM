@@ -5,7 +5,7 @@
 [Polyp Segmentation](https://github.com/DengPingFan/PraNet) Download the polyp segmentation dataset from PraNet's repo and reorganize it into four folders, one for each dataset.
 [Prostate Segmentation](https://liuquande.github.io/SAML/)
 
-Taking the polyp dataset as an example, the data is organized as follows:
+<!-- Taking the polyp dataset as an example, the data is organized as follows:
 Polyp
     ETIS
         images
@@ -20,7 +20,7 @@ Polyp
     ETIS.csv
     Kvasir.csv
     CVC-ClinicDB.csv
-    CVC-ColonDB.csv
+    CVC-ColonDB.csv -->
 
 ## Polyp Segmentation
 bash run_CVC-ClinicDB.sh
