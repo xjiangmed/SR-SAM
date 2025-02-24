@@ -23,7 +23,7 @@ Polyp
     CVC-ColonDB.csv
 
 ## Polyp Segmentation
-bash run_RUNMC.sh
+bash run_CVC-ClinicDB.sh
 
 ## TO DO
 The complete train and test code will be provided soon.
